@@ -1,0 +1,11 @@
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\bin\Debug\SimpleHotel.exe.config
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\bin\Debug\SimpleHotel.exe
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\bin\Debug\SimpleHotel.pdb
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.csproj.AssemblyReference.cache
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.Form1.resources
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.Properties.Resources.resources
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.csproj.GenerateResource.cache
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.csproj.CoreCompileInputs.cache
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.exe
+C:\Users\Nipun\source\repos\SimpleHotel\SimpleHotel\obj\Debug\SimpleHotel.pdb
